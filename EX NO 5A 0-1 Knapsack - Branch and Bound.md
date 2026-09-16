@@ -34,9 +34,7 @@ Update best whenever a higher profit is found.
 After exploring all feasible combinations, print the maximum profit best. 
 
 ## Program:
-```
-Developed by: Ashwin Akash M
-Register Number:212223230024
+```java
 import java.util.*;
 
 public class StartupShowcaseOptimizer {
