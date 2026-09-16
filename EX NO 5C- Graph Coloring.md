@@ -31,10 +31,7 @@ If all towers can be assigned valid channels → print "YES".
 Otherwise → print "NO" (conflict in channel assignment).  
 
 ## Program:
-```
-Program to implement Reverse a String
-Developed by: Ashwin Akash M
-Register Number:212223230024
+```java
 import java.util.*;
 
 public class RadioTowerChannelAssignment {
