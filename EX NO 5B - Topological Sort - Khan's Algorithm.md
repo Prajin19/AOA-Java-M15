@@ -36,10 +36,7 @@ If no cycle is detected, print the tasks in the valid topological order,
 representing a feasible schedule of task execution.  
 
 ## Program:
-```
-Program to implement Reverse a String
-Developed by: Ashwin Akash M
-Register Number:212223230024
+```java
 import java.util.*;
 
 public class prog {
